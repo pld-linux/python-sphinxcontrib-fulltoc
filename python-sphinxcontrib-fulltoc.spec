@@ -8,7 +8,7 @@ Summary:	Include a full table of contents in your Sphinx HTML sidebar
 Summary(pl.UTF-8):	Dołączanie pełnego spisu treści w pasku nawigacji HTML ze Sphinksa
 Name:		python-sphinxcontrib-fulltoc
 Version:	1.2.0
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinxcontrib-fulltoc/
